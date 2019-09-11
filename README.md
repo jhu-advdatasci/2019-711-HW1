@@ -1,6 +1,9 @@
 # Homework 1: Critiquing Analytic Products
 
-This homework is due Wednesday September 18, 2019 at 11:59 PM. When you have completed the assignment, knit the R Markdown, commit your changes and push to GitHub.
+There are two parts to this homework assignment each with different due dates: 
+
+* Part 1 is due **Friday September 13, 2019 at 11:59 PM**. Write down your answer in this R Markdown document, knit the R Markdown, commit your changes, and push to GitHub, but you also need to submit your answer to this [google form](https://forms.gle/qDg7u6vP6wPVS7b89) by the due date. We will release Part 2 on **Saturday September 14, 2019 at 12:01 AM**. 
+* Part 2 is due **Wednesday September 18, 2019 at 11:59 PM**. When you have completed the assignment, knit the R Markdown, commit your changes and push to GitHub.
 
 We will be using [GitHub in the Classroom](https://classroom.github.com/), which automates repository creation and access control, making it easy for instructors to distribute starter code and collect assignments on GitHub. Read through this [GitHub Classroom guide for students](https://github.com/jfiksel/github-classroom-for-students) to learn more about to submit your homework assignment. 
 
